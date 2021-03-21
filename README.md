@@ -1,6 +1,6 @@
 # MBRUNDAGE WEBSITE
 
-## Freelancing Web Development Portfolio Site
+## Personal Freelance Web Development Portfolio Site
 
 ## mbrundage.com
 
@@ -8,7 +8,7 @@ This is my most ambitious web design and build project to date. This project wil
 
 I want to build a new portfolio site that includes MINIMALLY the following:
 
-1) Basic HTML elements and style
+1) Basic HTML elements and style:
     a) Doctype
     b) Header Information
     c) Metadata
