@@ -5,3 +5,15 @@ CSS Style Sheet for mbrundage.com
 
 Filename: mb_styles.css
 */
+
+/* Custom Cursor
+img {
+    cursor: url("/path"), auto;
+}
+*/
+
+/* Zoom
+img: hover {
+    transform: scale(1.1);
+}
+*/
