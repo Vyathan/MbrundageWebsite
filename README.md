@@ -61,3 +61,5 @@ I want to build a new portfolio site that includes MINIMALLY the following:
 3/21/21 - I started the project by laying out the index.html file and creating the folder structure.
 
 3/23/21 - I wrote the start of the about.html and contact.html files.
+
+3/29/21 - Created links between html and css documents. Layed out a relative file path.
