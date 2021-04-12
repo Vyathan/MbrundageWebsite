@@ -65,3 +65,5 @@ I want to build a new portfolio site that includes MINIMALLY the following:
 3/29/21 - Created links between html and css documents. Layed out a relative file path.
 
 4/11/21 - Created reset style sheet
+
+4/12/21 - Added Paragraphs to index.html and about.html
