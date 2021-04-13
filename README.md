@@ -67,3 +67,5 @@ I want to build a new portfolio site that includes MINIMALLY the following:
 4/11/21 - Created reset style sheet
 
 4/12/21 - Added Paragraphs to index.html and about.html, added address to contact.html
+
+4/13/21 - Added hypertext links
